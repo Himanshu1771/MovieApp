@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/imdbmovieapp/static/css/main.088322e4.css",
+    "main.js": "/imdbmovieapp/static/js/main.5fc01fa8.js",
+    "static/media/logo.jpg": "/imdbmovieapp/static/media/logo.03af0424b7ccf94b8a5e.jpg",
+    "index.html": "/imdbmovieapp/index.html",
+    "main.088322e4.css.map": "/imdbmovieapp/static/css/main.088322e4.css.map",
+    "main.5fc01fa8.js.map": "/imdbmovieapp/static/js/main.5fc01fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.088322e4.css",
+    "static/js/main.5fc01fa8.js"
+  ]
+}
